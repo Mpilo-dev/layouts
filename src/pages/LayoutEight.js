@@ -20,7 +20,7 @@ const Container = styled.div`
 const ItemOne = styled.div`
   width: 200px;
   height: 50%;
-  background: red;
+  background: blue;
 
   align-self: flex-start;
 `;
